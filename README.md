@@ -1,7 +1,6 @@
-
-<img src="https://raw.githubusercontent.com/nee-tin/assets/main/compliant-law.png" width="700" alt="Responsive Law Firm Website Preview">
-  # Responsive Law Firm Website
-
+# Responsive Law Firm Website
+<img src="https://raw.githubusercontent.com/nee-tin/assets/main/compliant-law.png" width="200" alt="Responsive Law Firm Website Preview"> 
+ 
 Modern responsive law firm landing page designed with a professional business-focused layout and clean user interface.
 
 ---
