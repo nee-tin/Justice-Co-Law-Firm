@@ -1,6 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/nee-tin/assets/main/compliant-law.png"
-     width="700" alt="Responsive Law Firm Website Preview">
+<img src="https://raw.githubusercontent.com/nee-tin/assets/main/compliant-law.png" width="700" alt="Responsive Law Firm Website Preview">
   # Responsive Law Firm Website
 
 Modern responsive law firm landing page designed with a professional business-focused layout and clean user interface.
@@ -34,11 +33,6 @@ This project was created to demonstrate modern frontend development skills for p
 
 ---
 
-## Preview
-
-<img src="https://raw.githubusercontent.com/nee-tin/assets/main/lawfirm-preview.png" width="700" alt="Law Firm Website Preview">
-
----
 
 ## Mobile Responsive Design
 
