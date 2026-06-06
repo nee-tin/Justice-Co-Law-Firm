@@ -1,5 +1,5 @@
 ## 💼 Law Firm Website
-<img src="https://raw.githubusercontent.com/nee-tin/assets/main/compliant-law.png" width="50%" alt="Responsive Law Firm Website Preview"> 
+<img src="https://raw.githubusercontent.com/nee-tin/assets/main/compliant-law.png" width="20%" alt="Responsive Law Firm Website Preview"> 
  Preview 📸
  
 <img src="https://raw.githubusercontent.com/nee-tin/assets/main/Law_firm-%20responsive_layout.png" width="100%" />
